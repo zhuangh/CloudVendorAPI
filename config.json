@@ -1,0 +1,14 @@
+{
+    "GoogleDrive": {
+	"CLIENT_ID"     : "31749922014-unrdtaqjhkbfs1pbsbceb2m9lv7pgcid.apps.googleusercontent.com",
+	    "CLIENT_SECRET" : "IBVSGSrAdeZil9NHO7eLCRN2",
+	    "REDIRECT_URL"  : "http://127.0.0.1:4001/oauth2callback",
+	    "SCOPE"	    : "https://www.googleapis.com/auth/drive"
+    }
+    ,
+    "Dropbox":{
+	"CLIENT_ID" : "tgyffoqf2j5lw2d" , 
+	    "CLIENT_SECRET" : "76kqc2ctj2qlp6l"
+    }
+}
+
